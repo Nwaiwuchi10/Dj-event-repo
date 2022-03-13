@@ -1,0 +1,19 @@
+.dis {
+  display: flex;
+  flex-direction: row;
+  margin-top: 100px;
+  justify-content: space-around;
+  text-align: center;
+}
+.to {
+}
+
+@media screen and (max-width: 680px) {
+  .dis {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+  }
+  .to {
+  }
+}

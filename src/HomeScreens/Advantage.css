@@ -1,0 +1,139 @@
+.Container-div {
+  background-color: whitesmoke;
+  width: 100%;
+  height: 150vh;
+  margin-top: -40px;
+}
+.col-cont {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  font-size: 15px;
+  color: gray;
+  font-weight: 400;
+  top: 380px;
+}
+.col-cont1 {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  font-size: 40px;
+  color: #1e2a34;
+  font-weight: 800;
+  top: 385px;
+}
+.contel {
+  display: flex;
+  justify-content: space-around;
+  position: relative;
+  top: 440px;
+}
+.Conter-div {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  align-items: center;
+  text-align: center;
+  font-size: 20px;
+  color: #1e2a34;
+  position: relative;
+  margin-top: 24px;
+}
+.Cont-icon-div {
+  color: #df3629;
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+.Cont-icon {
+  background-color: white;
+  border: 1px solid white;
+  min-width: 50px;
+  min-height: 50px;
+
+  border-radius: 50px;
+}
+.Conting-div {
+  text-align: center;
+  font-size: 15.5px;
+  color: #6e6e6e;
+  position: relative;
+  margin-top: 15px;
+}
+
+.conting-bord {
+  border: 1px solid #3d65b8;
+  background-color: #3d65b8;
+
+  border-radius: 25px;
+  color: white;
+  position: relative;
+  top: 500px;
+  width: 160px;
+  height: 45px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  flex-direction: row;
+
+  left: 44%;
+  font-size: medium;
+}
+.conting-bord p {
+  font-size: 14px;
+  margin-left: -47px;
+  margin-top: -33px;
+}
+/* @media screen and (max-width: 1200px) {
+    .Container-div {
+      height: 150vh;
+    }
+  }
+  @media screen and (max-width: 980px) {
+    .Container-div {
+      height: 160vh;
+    }
+  }
+  @media screen and (max-width: 700px) {
+    .Container-div {
+      height: 220vh;
+    }
+    .contel {
+      display: flex;
+      flex-wrap: wrap;
+    }
+    .Conter-div {
+      font-size: 21px;
+      text-align: center;
+    }
+    .Conting-div {
+      margin-bottom: 40px;
+      font-size: 17px;
+      text-align: center;
+    }
+    .conting-bord {
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      margin-left: -40px;
+      margin-right: initial;
+    }
+  }
+  
+  @media screen and (max-width: 480px) {
+    .conting-bord {
+      margin-left: -55px;
+    }
+    .Container-div {
+      background-color: whitesmoke;
+  
+      height: 200vh;
+      margin-top: -170px;
+    }
+  }
+   */
